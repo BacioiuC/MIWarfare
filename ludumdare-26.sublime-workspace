@@ -1,0 +1,622 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"enemy_hea",
+				"enemy_heart_tex"
+			],
+			[
+				"unit_over",
+				"unit_overlay_tex"
+			],
+			[
+				"p",
+				"pointerTable"
+			],
+			[
+				"teamOn",
+				"teamOneTable"
+			],
+			[
+				"teamOne",
+				"teamOneTable"
+			],
+			[
+				"teamTw",
+				"teamTwoTable"
+			],
+			[
+				"atlas",
+				"atlasTable"
+			],
+			[
+				"textBo",
+				"textBox1"
+			],
+			[
+				"Content",
+				"ContentPanel"
+			],
+			[
+				"Conten",
+				"ContentPanel"
+			],
+			[
+				"Conte",
+				"ContentPanel"
+			],
+			[
+				"Con",
+				"ContentPanel"
+			],
+			[
+				"widgetL",
+				"widgetlist1"
+			],
+			[
+				"viewPor",
+				"viewPortTable"
+			],
+			[
+				"ini",
+				"initialSum"
+			],
+			[
+				"botr",
+				"boreMeter"
+			],
+			[
+				"bore",
+				"boreMeter"
+			],
+			[
+				"pla",
+				"activePlacement"
+			],
+			[
+				"fir",
+				"fireTimer"
+			],
+			[
+				"turret",
+				"turretTable"
+			],
+			[
+				"tur",
+				"turretTable"
+			],
+			[
+				"maxi",
+				"maximumInnerWalls"
+			],
+			[
+				"curr",
+				"curretInnerWalls"
+			],
+			[
+				"entit",
+				"entityTable"
+			],
+			[
+				"keyboa",
+				"keyboardIsPressed"
+			],
+			[
+				"In",
+				"initPathfinding"
+			],
+			[
+				"assi",
+				"assignNewRandomPath"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/E/MoaiSDK/projects/MIW_LD/main.lua",
+			"settings":
+			{
+				"buffer_size": 1492,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Game/game.lua",
+			"settings":
+			{
+				"buffer_size": 6078,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Game/scene/map.lua",
+			"settings":
+			{
+				"buffer_size": 4990,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Game/entity.lua",
+			"settings":
+			{
+				"buffer_size": 14042,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Game/team2.lua",
+			"settings":
+			{
+				"buffer_size": 11336,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/User/make.sublime-build",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/MoaiSDK/projects/ludumdare-26-basecode/main.lua",
+		"/E/MoaiSDK/projects/ludumdare-26-basecode/Game/game.lua",
+		"/E/MoaiSDK/projects/ludumdare-26-basecode/Game/scene/map.lua",
+		"/E/MoaiSDK/projects/ludumdare-26-basecode/Game/team2.lua",
+		"/E/MoaiSDK/projects/ludumdare-26-basecode/Game/entity.lua",
+		"/E/MoaiSDK/projects/ludumdare-26-basecode/Game/scene/gui.lua",
+		"/E/MoaiSDK/projects/ludumdare-26-basecode/Game/bullet.lua",
+		"/E/MoaiSDK/projects/ludumdare-26-basecode/core/image.lua",
+		"/E/MoaiSDK/projects/ludumdare-26-basecode/core/core.lua",
+		"/E/MoaiSDK/projects/Minimal Interaction Warfare BUILD/readme.txt",
+		"/E/MoaiSDK/projects/ludumdare-26-basecode/Game/pointerPath.lua",
+		"/E/MoaiSDK/projects/ludumdare-26-basecode/readme.txt",
+		"/C/Users/bacio_000/AppData/Local/Temp/OFL.txt",
+		"/E/MoaiSDK/projects/ludumdare-26-basecode/core/input.lua",
+		"/E/moai-dev-master/vs2010/msbuild.xml",
+		"/E/moai-dev-master/vs2010/README.txt",
+		"/E/MoaiSDK/projects/ludumdare-26-basecode/run_local.bat",
+		"/E/moai-dev-master/vs2008/README.txt",
+		"/E/projects/Pvv/Pvv/src/animation/animations.lua",
+		"/E/MoaiSDK/samples/prop/prop-color/main.lua",
+		"/E/MoaiSDK/hosts/android3/settings-local.sh",
+		"/E/MoaiSDK/hosts/android3/settings-global.sh",
+		"/E/MoaiSDK/projects/TD-zenit/Game/baddies/baddy.lua",
+		"/E/projects/TD/src/mouse.lua",
+		"/E/projects/TD/src/camera.lua",
+		"/E/MoaiSDK/projects/non-linear-td-engine/main.lua",
+		"/E/MoaiSDK/projects/non-linear-td-engine/Game/baddy.lua",
+		"/E/MoaiSDK/projects/non-linear-td-engine/Game/game.lua",
+		"/E/MoaiSDK/projects/ludumdare-26-basecode/extended/animations.lua",
+		"/E/MoaiSDK/projects/ludumdare-26-basecode/extended/anim_lib.lua",
+		"/C/Users/bacio_000/Documents/GitHub/ChaurusFramework/README.mdown",
+		"/C/Users/bacio_000/Documents/GitHub/ChaurusFramework/samples/animation/game.lua",
+		"/E/MoaiSDK/hosts/android2/settings-global.sh",
+		"/E/MoaiSDK/hosts/android3/host-source/project/AndroidManifest.xml",
+		"/E/MoaiSDK/projects/wacka/core/input.lua",
+		"/E/MoaiSDK/projects/TD-Zenit-Gui/main.lua",
+		"/E/MoaiSDK/projects/TD-Zenit-Gui/Game/game.lua",
+		"/E/MoaiSDK/projects/TD-Zenit-Gui/resources/layouts/mainMenu.lua",
+		"/C/Users/bacio_000/Documents/GitHub/moaigui/main.lua",
+		"/E/MoaiSDK/projects/TD-Zenit-Gui/gui/textbox.lua",
+		"/C/Users/bacio_000/Documents/GitHub/moaigui/gui/factory.lua",
+		"/E/MoaiSDK/projects/TD-Zenit-Gui/Game/userInterface/mainMenu_Functions.lua",
+		"/E/MoaiSDK/projects/TD-Zenit-Gui/resources/layouts/worldMap.lua",
+		"/C/Users/bacio_000/Documents/GitHub/moaigui/textbox.lua",
+		"/E/MoaiSDK/projects/TD-Zenit-Gui/gui/text.lua",
+		"/E/MoaiSDK/projects/TD-Zenit-Gui/Game/userInterface/worldMap_Menu_Functions.lua",
+		"/C/Users/bacio_000/Documents/GitHub/moaigui/gui/textbox.lua",
+		"/C/Users/bacio_000/Documents/GitHub/moaigui/resources/layouts/variouslayout.lua",
+		"/C/Users/bacio_000/Documents/GitHub/moaigui/variousfromlayout.lua",
+		"/E/MoaiSDK/projects/TD-Zenit-Gui/gui/widgetlist.lua",
+		"/E/MoaiSDK/projects/TD-Zenit-Gui/gui/awindow.lua",
+		"/C/Users/bacio_000/Documents/GitHub/moaigui/widgetlist.lua",
+		"/E/MoaiSDK/projects/TD-Zenit-Gui/resources/themes/basetheme.lua",
+		"/C/Users/bacio_000/Documents/GitHub/moaigui/resources/layouts/widgetlistlayout.lua",
+		"/C/Users/bacio_000/Documents/GitHub/moaigui/widgetlistimages.lua",
+		"/C/Users/bacio_000/Documents/GitHub/moaigui/gui/awindow.lua",
+		"/C/Users/bacio_000/Documents/GitHub/moaigui/gui/widgetlist.lua",
+		"/C/Users/bacio_000/Documents/GitHub/moaigui/gui/layoutparser.lua",
+		"/C/Users/bacio_000/Documents/GitHub/moaigui/gui/gui.lua",
+		"/C/Users/bacio_000/Documents/GitHub/moaigui/widgetlistfromlayout.lua",
+		"/C/Users/bacio_000/Documents/GitHub/moaigui/gui/awidgetevent.lua",
+		"/C/Users/bacio_000/Documents/GitHub/moaigui/gui/label.lua",
+		"/C/Users/bacio_000/Documents/GitHub/moaigui/gui/text.lua",
+		"/E/MoaiSDK/projects/TD-Zenit-Gui/core/core.lua",
+		"/E/MoaiSDK/projects/moaigui-master/widgetlist.lua",
+		"/E/MoaiSDK/projects/TD-Zenit-Gui/GAME/game.lua",
+		"/E/MoaiSDK/projects/TD-Zenit-Gui/resources/layouts/action_phase.lua",
+		"/E/MoaiSDK/projects/TD-Zenit-Gui/resources/layouts/widgetlistlayout.lua",
+		"/E/MoaiSDK/projects/TD-Zenit-Gui/gui/gui.lua",
+		"/E/MoaiSDK/projects/moaigui-master/main.lua",
+		"/E/MoaiSDK/projects/moaigui-master/gui/widgetlist.lua",
+		"/E/MoaiSDK/projects/moaigui-master/parentingfromlayout.lua",
+		"/E/MoaiSDK/projects/moaigui-master/various.lua",
+		"/E/MoaiSDK/projects/TD-Zenit-Gui/Game/mainMenu_Functions.lua",
+		"/E/MoaiSDK/projects/moaigui-master/multilayoutdemo.lua",
+		"/E/MoaiSDK/projects/TD-Zenit-Gui/resources/layouts/variouslayout.lua",
+		"/C/Users/bacio_000/AppData/Local/Temp/Rar$DIa0.919/SkyrimViljaReadme.txt",
+		"/E/MoaiSDK/projects/moaigui-master/readme.txt",
+		"/E/MoaiSDK/projects/moaigui-master/layermgr.lua",
+		"/E/MoaiSDK/projects/TD-zenit/Game/game.lua",
+		"/E/MoaiSDK/projects/TD-zenit/main.lua",
+		"/E/MoaiSDK/projects/TD-zenit/core/image.lua",
+		"/E/MoaiSDK/projects/TD-zenit/Game/cctv.lua",
+		"/E/MoaiSDK/projects/TD-zenit/core/input.lua",
+		"/E/MoaiSDK/projects/TD-zenit/Game/turret.lua",
+		"/E/MoaiSDK/projects/TD-zenit/Game/objects/objects.lua",
+		"/E/MoaiSDK/projects/moaigui-master/textbox.lua",
+		"/E/MoaiSDK/projects/moaigui-master/variousfromlayout.lua",
+		"/E/MoaiSDK/projects/moaigui-master/resources/themes/basetheme.lua",
+		"/E/MoaiSDK/projects/TD-zenit/Game/map.lua",
+		"/E/MoaiSDK/projects/TD-zenit/core/core.lua",
+		"/E/projects/TD/src/math.lua",
+		"/E/MoaiSDK/samples/grid/grid-quads/main.lua",
+		"/E/MoaiSDK/samples/grid/grid-hex/main.lua",
+		"/E/projects/TD/src/game.lua",
+		"/E/MoaiSDK/projects/TD-zenit/Game/economy_system.lua",
+		"/E/MoaiSDK/projects/TD-zenit/Game/effects.lua",
+		"/E/MoaiSDK/projects/TD-zenit/core/math.lua",
+		"/E/MoaiSDK/projects/non-linear-td-engine/Game/map.lua",
+		"/E/moai-dev-master/README.txt",
+		"/C/Users/bacio_000/Desktop/settings-global.sh",
+		"/E/MoaiSDK/samples/anim/up/main.lua",
+		"/C/Users/bacio_000/Desktop/default_moai_app_logcat.txt",
+		"/E/MoaiSDK/samples/anim/anim-basic/main.lua",
+		"/E/projects/TD/src/main.lua",
+		"/E/projects/TD/src/baddies/baddy.lua",
+		"/E/projects/TD/src/scene/isoMap.lua",
+		"/E/projects/TD/src/map.lua",
+		"/E/projects/TD/src/objects/objects.lua",
+		"/E/projects/TD/level_editor/game.lua",
+		"/E/MoaiSDK/hosts/android3/host-source/project/src/com/getmoai/samples/MoaiActivity.java",
+		"/E/MoaiSDK/hosts/android3/host-source/init.lua",
+		"/E/projects/TD/src/cctv.lua",
+		"/E/projects/TD/src/economy_system.lua",
+		"/E/movies/Deus.Ex.Human.Revolution-SHiTROW/shitrow.nfo",
+		"/E/projects/TD/src/turret.lua",
+		"/E/projects/Jumper-Examples-love2d/src/player.lua",
+		"/E/projects/Pvv/Pvv/src/map.lua",
+		"/E/projects/TD/src/lib/jumper/pathfinder.lua",
+		"/E/projects/Pvv/Pvv/src/baddies/baddies.lua",
+		"/E/projects/Pvv/Pvv/src/baddies/tier1.lua",
+		"/E/projects/Jumper-Examples-love2d/src/main.lua",
+		"/C/Users/bacio_000/AppData/Local/Temp/Rar$DIa0.549/turret.lua",
+		"/C/Users/bacio_000/AppData/Local/Temp/Rar$DIa0.178/baddy.lua",
+		"/E/projects/TD/src/effects.lua",
+		"/E/projects/TD/src/lib/jumper/core/grid.lua",
+		"/E/projects/TD/src/lib/jumper/core/node.lua",
+		"/E/projects/TD/src/lib/jumper/jumper.lua"
+	],
+	"find":
+	{
+		"height": 60.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"font",
+			"0",
+			"1",
+			"0",
+			"1",
+			"remove(",
+			"remove",
+			"removeTimer",
+			"damage",
+			"remove",
+			"damage",
+			"remove",
+			"giveDamage",
+			"teamOne",
+			"entity",
+			"orderMove",
+			"entity",
+			"print",
+			"addText",
+			"remove",
+			"textBox",
+			"register",
+			"registerEvent",
+			"self._selection",
+			"getSelection",
+			"setPos",
+			"setPOs",
+			"row",
+			"widget",
+			"setPos",
+			"Image",
+			"setText",
+			"layout_entry_handler",
+			"fire",
+			"update",
+			"bank",
+			"love.graphics.draw(",
+			"love.graphics.newImage(\"",
+			"healthBar",
+			"love.graphics",
+			"love.graphics.draw(",
+			"love.graphics.newImage(",
+			"print",
+			"civilian",
+			"hp",
+			"here",
+			"HERE",
+			"player",
+			"  ",
+			"map.collision",
+			"map.cables",
+			"Game",
+			"v.timer",
+			"love.mouse_right",
+			"love.mouse_left",
+			"cutdelay",
+			"love.draw_fill",
+			"gamemode"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"4",
+			"5",
+			"4",
+			"5",
+			"teamTwo",
+			"teamOne",
+			"tank",
+			"--bank",
+			"image:renderImage(",
+			"image:newTexture(\"Game/",
+			"image:renderImage(",
+			"image:newTexture(",
+			"--print",
+			"entity",
+			"\"r\"",
+			"\"l\"",
+			"\"fill\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/E/MoaiSDK/projects/MIW_LD/main.lua",
+					"settings":
+					{
+						"buffer_size": 1492,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Game/game.lua",
+					"settings":
+					{
+						"buffer_size": 6078,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								880,
+								880
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Game/scene/map.lua",
+					"settings":
+					{
+						"buffer_size": 4990,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2280,
+								2280
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 663.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Game/entity.lua",
+					"settings":
+					{
+						"buffer_size": 14042,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2578,
+								2578
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1142.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "Game/team2.lua",
+					"settings":
+					{
+						"buffer_size": 11336,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								957,
+								957
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2006.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 230.0,
+	"status_bar_visible": true
+}
